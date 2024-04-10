@@ -1,15 +1,30 @@
 Welcome to the course _Philosophical Logic_! (This website is currently still under construction.) It is given during the summer semester 2024 at _LMU
 Munich_ as part of the _Master in Logic and Philosophy of Science_. This website contains all information and study material.
 
-### General information
+# General information
 
-### Lecture Notes
+We have three session per week during the semster:
 
-### Formalities
+1. The _lecture_ given by me, on Thursdays from 10:15 - 11:45 in room 021 (Ludwigstr. 31)
+2. The _exercise class_ given by Marta, on Mondays from 14:15 - 15:45 in room 028 (Ludwigstr. 31)
+3. The _tutorial_ given by me, on Thursdays from 9:15 - 10:00 in room 021 (Ludwigstr. 31)
 
-### Schedule
+The lecture introduces the main content of the course, the exercise session discusses solutions to the homework exercises, and the tutorial covers background material, but can also be used to go into more detail of a particular topic (based on your demand).
 
-The schedule below describes in which week we will cover which material in, respectively, the lecture, the turorial, and the exercise class.
+# Lecture Notes
+
+You find the latest edition of the lecture notes [here (TBA)](). They are updated as the course progresses. 
+
+
+# Formalities
+
+All the organizational details for the course are described [here (TBA)]().
+ 
+
+
+# Schedule
+
+The schedule below describes in which week we will cover which material in, respectively, the lecture, the turorial, and the exercise class. The 'Week Date' is the Monday of the week; this is when exercise class takes place, while the lecture and tutorial will take place on the Thursday of that respective week. 
 
 Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
 ---  | ---                 | ---     | ---     | ---      | --- 
@@ -29,11 +44,6 @@ Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
 14 | 15 Jul | TBA | TBA | TBA | TBA
 
 
-### Essay topic
+# Essay topic
 
-
-The main files are the following:
-* [`TBA`]() which are the lecture notes for the course. They will be updated as the course progresses.
-* [`TBA`]() which describes all the organizational details for the course.
-* [`TBA`]() which lists the topic of each week.
-* [`TBA`]() which lists possible essay topics.
+I will add here a list of possible essay topics later on in the course.
