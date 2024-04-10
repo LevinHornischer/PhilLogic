@@ -11,9 +11,9 @@ Munich_ as part of the _Master in Logic and Philosophy of Science_. This website
 
 The schedule below describes in which week we will cover which material in, respectively, the lecture, the turorial, and the exercise class.
 
-#Week | Week Starting Date | Chapter | Lecture | Tutorial | Exercise Class
+Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
 ---  | ---                 | ---     | ---     | ---      | --- 
-1 | 15 Apr | 1 | Course intro | _cancelled_ (since before first lecture)  | _cancelled_ (since before first lecture)_ 
+1 | 15 Apr | 1 | Course intro | _cancelled_ (since before first lecture)  | _cancelled_ (before first lecture) 
  2 | 22 Apr  | TBA | TBA | TBA | TBA
  3 | 29 Apr  | TBA | TBA | TBA | TBA
  4 | 6 May   | TBA | _cancelled_ (Ascension Day) | _cancelled_ (Ascension Day) | TBA
