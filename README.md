@@ -4,19 +4,11 @@ Welcome to the course _Philosophical Logic_! (This website is currently still un
 # Motivation 
 
 Often, what is understood by 'logic' is classical logic (either classical propositional logic or classical first-order logic). Its typical features are, for example, that a sentence `p` is either true or false and that `not not p` is the same as `p`. In many situations, though, simply assuming classical logic is not appropriate. Such situations arise, as we'll see, in philosophy and neighboring disciplines (like mathematics, computer science,
-and linguistics). For example, when reasoning with
-
-1. vague concepts
-2. incomplete or inconsistent data
-3. conditionals (i.e., various 'if, then' sentences)
-4. what it means to be true.
-
-The course will be about exploring different logics to model these (and
-other) phenomena.
+and linguistics). For example, when reasoning with: vague concepts, incomplete or inconsistent data, conditionals (i.e., 'if, then' sentences), and what it means to be true. The course will be about exploring different logics to model these (and other) phenomena.
 
 # General information
 
-We have three session per week during the semster:
+We have three sessions per week during the semster:
 
 1. The _lecture_ given by me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html), on Thursdays from 10:15 - 11:45 in room 021 (Ludwigstr. 31).
 Here the main content of the course is introduced. Below you find a schedule of when we cover which topic. (This is `10111 Philosophical Logic` on LSF.)
@@ -39,7 +31,7 @@ All the organizational details for the course are described in this file: [TBA](
 
 # Schedule
 
-The schedule below describes in which week we will cover which material in, respectively, the lecture, the turorial, and the exercise class. The 'Week Date' is the Monday of the week; this is when exercise class takes place, while the lecture and tutorial will take place on the Thursday of that respective week. 
+The schedule below describes in which week we will cover which material in, respectively, the lecture, the tutorial, and the exercise class. The 'Week Date' is the Monday of the week; this is when exercise class takes place, while the lecture and tutorial will take place on the Thursday of that respective week. 
 
 Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
 ---  | ---                 | ---     | ---     | ---      | --- 
