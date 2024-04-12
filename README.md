@@ -29,13 +29,12 @@ Here the main content of the course is introduced. Below you find a schedule of 
 
 # Lecture Notes
 
-You find the latest edition of the lecture notes [here (TBA)](). They are updated as the course progresses. 
+You find the latest edition of the lecture notes in this file: [`phillog.pdf`](phillog.pdf). They are updated as the course progresses. 
 
 
 # Formalities
 
-All the organizational details for the course are described [here (TBA)]().
- 
+All the organizational details for the course are described in this file: [TBA]().
 
 
 # Schedule
