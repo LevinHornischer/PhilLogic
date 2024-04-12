@@ -8,14 +8,14 @@ and linguistics). For example, when reasoning with: vague concepts, incomplete o
 
 # General information
 
-We have three sessions per week during the semster:
+We have three sessions per week during the semester:
 
-1. The _lecture_ given by me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html), on Thursdays from 10:15 - 11:45 in room 021 (Ludwigstr. 31).
+1. The _lecture_ given by me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html), on Thursdays from 10:15 to 11:45 in room 021 (Ludwigstr. 31).
 Here the main content of the course is introduced. Below you find a schedule of when we cover which topic. (This is `10111 Philosophical Logic` on LSF.)
 
-2. The _exercise class_ given by [Marta Esteves](https://www.mcmp.philosophie.uni-muenchen.de/people/doct_fellows/esteves_marta/index.html), on Mondays from 14:15 - 15:45 in room 028 (Ludwigstr. 31). Here the solutions to the homework exercises are discussed. (This is `10105 Additional Tutorial "Philosophical Logic"` on LSF.)
+2. The _exercise class_ given by [Marta Esteves](https://www.mcmp.philosophie.uni-muenchen.de/people/doct_fellows/esteves_marta/index.html), on Mondays from 14:15 to 15:45 in room 028 (Ludwigstr. 31). Here the solutions to the homework exercises are discussed. (This is `10105 Additional Tutorial "Philosophical Logic"` on LSF.)
   
-3. The _tutorial_ given by me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html), on Thursdays from 9:15 - 10:00 in room 021 (Ludwigstr. 31). Here we cover background material, but we can go into more detail of a particular topic of the lecture (based on your demand). (This is `10132 Exercise course "Philosophical Logic"` on LSF.) 
+3. The _tutorial_ given by me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html), on Thursdays from 9:15 to 10:00 in room 021 (Ludwigstr. 31). Here we cover background material, but we can go into more detail of a particular topic of the lecture (based on your demand). (This is `10132 Exercise course "Philosophical Logic"` on LSF.) 
 
 
 
@@ -26,7 +26,7 @@ You find the latest edition of the lecture notes in this file: [`phillog.pdf`](p
 
 # Formalities
 
-All the organizational details for the course are described in this file: [TBA]().
+All the organizational details for the course are described in this file: [`formalities.pdf`](formalities.pdf).
 
 
 # Schedule
