@@ -35,8 +35,8 @@ The schedule below describes in which week we will cover which material in, resp
 
 Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
 ---  | ---                 | ---     | ---     | ---      | --- 
-1 | 15 Apr | 1 | Course intro | _cancelled_ (since before first lecture)  | _cancelled_ (before first lecture) 
- 2 | 22 Apr  | TBA | TBA | TBA | TBA
+1 | 15 Apr | 1 | until and including sec. 2.2 | _cancelled_ (since before first lecture)  | _cancelled_ (before first lecture) 
+ 2 | 22 Apr  | 2 | sec. 2.3 | Intro to partial orders (see appendix) | classical logic recap
  3 | 29 Apr  | TBA | TBA | TBA | TBA
  4 | 6 May   | TBA | _cancelled_ (Ascension Day) | _cancelled_ (Ascension Day) | TBA
  5 | 13 May  | TBA | TBA | TBA | TBA
