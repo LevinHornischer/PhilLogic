@@ -1,4 +1,4 @@
-Welcome to the course _Philosophical Logic_! (This website is currently still under construction.) It is given during the summer semester 2024 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. 
+Welcome to the course _Philosophical Logic_! It is given during the summer semester 2024 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. 
 
 
 # Motivation 
