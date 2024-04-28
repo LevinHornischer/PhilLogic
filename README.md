@@ -35,20 +35,20 @@ The schedule below describes in which week we will cover which material in, resp
 
 Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
 ---  | ---                 | ---     | ---     | ---      | --- 
-1 | 15 Apr | 1 | until and including sec. 2.2 | _cancelled_ (since before first lecture)  | _cancelled_ (before first lecture) 
- 2 | 22 Apr  | 2 | sec. 2.3 | Intro to partial orders (see appendix) | classical logic recap
- 3 | 29 Apr  | TBA | TBA | TBA | TBA
- 4 | 6 May   | TBA | _cancelled_ (Ascension Day) | _cancelled_ (Ascension Day) | TBA
- 5 | 13 May  | TBA | TBA | TBA | TBA
- 6 | 20 May  | TBA | TBA | TBA | _cancelled_ (Whit Monday)
- 7 | 27 May  | TBA | _cancelled_ (Corpus Christi) | _cancelled_ (Corpus Christi) | TBA
- 8 | 3 Jun  | TBA | TBA | TBA | TBA
- 9 | 10 Jun | TBA | TBA | TBA | TBA
-10 | 17 Jun | TBA | TBA | TBA | TBA
-11 | 24 Jun | TBA | TBA | TBA | TBA
-12 | 1 Jul  | TBA | TBA | TBA | TBA
-13 | 8 Jul  | TBA | TBA | TBA | TBA
-14 | 15 Jul | TBA | TBA | TBA | TBA
+ 1   | 15 Apr    | 1   | until and including sec. 2.2 | _cancelled_ (since before first lecture)  | _cancelled_ (before first lecture) 
+ 2   | 22 Apr    | 2   | sec. 2.3 & 2.4 | Intro to partial orders (see appendix) | classical logic recap
+ 3   | 29 Apr    | 2   | sec. 2.5 | Recap Boolean algebras and algebraic semantics | Exercises on Boolean algebras (ex. 2.12, 2.13, maybe 2.14) 
+ 4   | 6 May     | 2 | _cancelled_ (Ascension Day) | _cancelled_ (Ascension Day) | Some end-of-chapter exercises from ch. 2
+ 5   | 13 May    | TBA | TBA | TBA | TBA
+ 6   | 20 May    | TBA | TBA | TBA | _cancelled_ (Whit Monday)
+ 7   | 27 May    | TBA | _cancelled_ (Corpus Christi) | _cancelled_ (Corpus Christi) | TBA
+ 8   | 3 Jun     | TBA | TBA | TBA | TBA
+ 9   | 10 Jun    | TBA | TBA | TBA | TBA
+10   | 17 Jun    | TBA | TBA | TBA | TBA
+11   | 24 Jun    | TBA | TBA | TBA | TBA
+12   | 1 Jul     | TBA | TBA | TBA | TBA
+13   | 8 Jul     | TBA | TBA | TBA | TBA
+14   | 15 Jul    | TBA | TBA | TBA | TBA
 
 
 # Essay topic
