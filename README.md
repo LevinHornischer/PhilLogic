@@ -4,7 +4,7 @@ Welcome to the course _Philosophical Logic_! It is given during the summer semes
 # Motivation 
 
 Often, what is understood by 'logic' is classical logic (either classical propositional logic or classical first-order logic). Its typical features are, for example, that a sentence `p` is either true or false and that `not not p` is the same as `p`. In many situations, though, simply assuming classical logic is not appropriate. Such situations arise, as we'll see, in philosophy and neighboring disciplines (like mathematics, computer science,
-and linguistics). For example, when reasoning with: vague concepts, incomplete or inconsistent data, conditionals (i.e., 'if, then' sentences), and what it means to be true. The course will be about exploring different logics to model these (and other) phenomena.
+and linguistics). For example, when reasoning with: vague concepts, incomplete or inconsistent data, conditionals (i.e., 'if, then' sentences), and what it means to be true. The course will be about exploring different logics to model these (and other) phenomena. A focus of the course is on using both algebraic and state-based (or 'possible world') semantics to mathematically describe the meaning of these different logics.
 
 # General information
 
