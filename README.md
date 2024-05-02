@@ -38,8 +38,8 @@ Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
  1   | 15 Apr    | 1   | until and including sec. 2.2 | _cancelled_ (since before first lecture)  | _cancelled_ (before first lecture) 
  2   | 22 Apr    | 2   | sec. 2.3 & 2.4 | Intro to partial orders (see appendix) | classical logic recap
  3   | 29 Apr    | 2   | sec. 2.5 | Recap Boolean algebras and algebraic semantics | Exercises on Boolean algebras (ex. 2.12, 2.13, maybe 2.14) 
- 4   | 6 May     | 2 | _cancelled_ (Ascension Day) | _cancelled_ (Ascension Day) | Exercises from sec. 2.6
- 5   | 13 May    | TBA | TBA | TBA | TBA
+ 4   | 6 May     | 2   | _cancelled_ (Ascension Day) | _cancelled_ (Ascension Day) | Exercises from sec. 2.6
+ 5   | 13 May    | 3   | sec. 3.1 and start of 3.2 | TBA | TBA
  6   | 20 May    | TBA | TBA | TBA | _cancelled_ (Whit Monday)
  7   | 27 May    | TBA | _cancelled_ (Corpus Christi) | _cancelled_ (Corpus Christi) | TBA
  8   | 3 Jun     | TBA | TBA | TBA | TBA
