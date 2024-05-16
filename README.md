@@ -40,7 +40,7 @@ Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
  3   | 29 Apr    | 2   | sec. 2.5 | Recap Boolean algebras and algebraic semantics | Exercises on Boolean algebras (ex. 2.12, 2.13, maybe 2.14) 
  4   | 6 May     | 2   | _cancelled_ (Ascension Day) | _cancelled_ (Ascension Day) | Exercises from sec. 2.6
  5   | 13 May    | 3   | sec. 3.1 and start of 3.2 | More on Boolean algebras and Stone duality | Wrap up exercises from sec. 2.6
- 6   | 20 May    | TBA | TBA | TBA | _cancelled_ (Whit Monday)
+ 6   | 20 May    | 3   | finish 3.2 and start 3.3 | Exercises from ch. 3 | _cancelled_ (Whit Monday)
  7   | 27 May    | TBA | _cancelled_ (Corpus Christi) | _cancelled_ (Corpus Christi) | TBA
  8   | 3 Jun     | TBA | TBA | TBA | TBA
  9   | 10 Jun    | TBA | TBA | TBA | TBA
