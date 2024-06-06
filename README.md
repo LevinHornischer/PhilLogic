@@ -41,7 +41,7 @@ Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
  4   | 6 May     | 2   | _cancelled_ (Ascension Day) | _cancelled_ (Ascension Day) | Exercises from sec. 2.6
  5   | 13 May    | 3   | sec. 3.1 and most of 3.2 | More on Boolean algebras and Stone duality | Wrap up exercises from sec. 2.6
  6   | 20 May    | 3   | finished 3.2 until and including 3.3.2 | Exercises from ch. 3 | _cancelled_ (Whit Monday)
- 7   | 27 May    | - | _cancelled_ (Corpus Christi) | _cancelled_ (Corpus Christi) | _cancelled_ (substitute TBA)
+ 7   | 27 May    | - | _cancelled_ (Corpus Christi) | _cancelled_ (Corpus Christi) | _cancelled_ (substituted on June 4)
  8   | 3 Jun     | 3-4 | Finished 3.3 and covered 4.1 | Exercise 3.7-8 | More exercises from ch. 3
  9   | 10 Jun    | 4 | Start 4.2 | Philosophical background of intuitionistic logic | Exercises on fuzzy logic
 10   | 17 Jun    | TBA | TBA | TBA | TBA
