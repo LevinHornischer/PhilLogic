@@ -55,4 +55,10 @@ Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
 
 # Essay topic
 
-I will add here a list of possible essay topics later on in the course.
+
+Below are some possible essay topics. I'll extend this list as the course progresses.
+
+* _State-based vs algebraic semantics_. TBA
+* TBA 
+ 
+Just to be sure, these suggested topics are meant as first ideas. It is part of the task of writing an essay to turn an interesting aspect of the suggested topic into a precise research question and collect the relevant literature on it. Please take a look at the grading criteria mentioned in the file [`formalities.pdf`](formalities.pdf) to get a clear idea of what a good essay is expected to look like.
