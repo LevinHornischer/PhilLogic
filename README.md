@@ -33,6 +33,8 @@ All the organizational details for the course are described in this file: [`form
 
 The schedule below describes in which week we will cover which material in, respectively, the lecture, the tutorial, and the exercise class. The 'Week Date' is the Monday of the week; this is when exercise class takes place, while the lecture and tutorial will take place on the Thursday of that respective week. 
 
+We had a vote on which topics to cover in the last four weeks, and you opted for an overview of the four last topics in the syllabus below.
+
 Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
 ---  | ---                 | ---     | ---     | ---      | --- 
  1   | 15 Apr    | 1   | until and including sec. 2.2 | _cancelled_ (since before first lecture)  | _cancelled_ (before first lecture) 
@@ -44,11 +46,11 @@ Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
  7   | 27 May    | -   | _cancelled_ (Corpus Christi) | _cancelled_ (Corpus Christi) | _cancelled_ (substituted on June 4)
  8   | 3 Jun     | 3-4 | Finished 3.3 and covered 4.1 | Exercise 3.7-8 | More exercises from ch. 3
  9   | 10 Jun    | 4   | Start 4.2 until and including Gödel's theorem | Philosophical background of intuitionistic logic | Exercises on fuzzy logic
-10   | 17 Jun    | 4   | Heyting algebra semantics | Details of proof of Gödel's theorem | Exercises on intuitionistic logic
-11   | 24 Jun    | TBA | TBA | TBA | TBA
-12   | 1 Jul     | TBA | TBA | TBA | TBA
-13   | 8 Jul     | TBA | TBA | TBA | TBA
-14   | 15 Jul    | TBA | TBA | TBA | TBA
+10   | 17 Jun    | 4   | Heyting algebra semantics | Double negation in intuitionistic logic | Exercises on intuitionistic logic
+11   | 24 Jun    | 5   | Hyperintensionality | More on duality between Heyting algebras and Kripke models | Exercises on Heyting algebras (and, optionally, details of proof of Gödel's theorem)
+12   | 1 Jul     | 6   | Counterfactuals | TBA | TBA
+13   | 8 Jul     | 8   | Relevance logic | TBA | TBA
+14   | 15 Jul    | 9   | Paradoxes | TBA | TBA
 
 
 # Essay topic
