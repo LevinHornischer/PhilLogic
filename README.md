@@ -58,7 +58,14 @@ Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
 
 Below are some possible essay topics. I'll extend this list as the course progresses.
 
-* _State-based vs algebraic semantics_. TBA
-* TBA 
+* _State-based vs algebraic semantics_. We motivated these two approaches to semantics with their respective slogans 'States first, propositions later' and 'Propsositions first, states later'. Do you think one of the two is correct (e.g., states are conceptually prior to propositions)? Or do you think that states and propositions are just two sides of the same coin: as duality theory would say?
+  
+* _Higher-order vagueness_. What exactly is higher-order vagueness and can the logics that we've discussed adequately capture it? (Cf. exercise 3.e.) 
+
+* _Fuzzy logic and the definitely operator_. Can fuzzy logic provide an interpretation of the definitely operator by interpreting it as the truth function that maps x to x^2? (Cf. exercise 4.b.)
+
+* _Kripke semantics for intuitionistic logic_. We have discussed in the lecture whether the semantics for intuitionistic logic using Kripke models adequately captured the intuitive semantics suggested by the BHK interpretation. What is your verdict on this? 
+
+* _Dummett's argument_. Based on the 'meaning is use' idea, Dummett and others argued that intuitionistic logic is the—more or less—one true logic (see the last paragraph of section 4.2.4). What do you make of this?   
  
 Just to be sure, these suggested topics are meant as first ideas. It is part of the task of writing an essay to turn an interesting aspect of the suggested topic into a precise research question and collect the relevant literature on it. Please take a look at the grading criteria mentioned in the file [`formalities.pdf`](formalities.pdf) to get a clear idea of what a good essay is expected to look like.
