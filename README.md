@@ -71,7 +71,8 @@ Below are some possible essay topics. I'll extend this list as the course progre
 * _State-based semantics and subject matter_. Say you want to develop a state-based semantics that respects subject matter (i.e., equivalent sentences have the same atomic sentences occurring in them). So you define models consisting of states and say what the truth-value V(s,"phi") of a formula "phi" is at a state s in the model. In truthmaker semantics, for example, one uses the truthmaker states and four truth-values (made true and not false, made false and not true, neither made true nor false, both made true and false). Now, Hornischer (2020, thm 3) shows that you will fail in your goal once you make the following initially plausible assumptions:
    1) Your truth-values can be ordered by closeness to the truth and V(s,"phi and psi") is less or equal to V(s,"phi"), which in turn is less or equal to V(s,"phi or psi").
    2) We have what might be called weak absorpion: V(s,"phi and (phi or psi) = V(s,"phi or (phi and psi)").
-Truthmaker semantics gives up on (1). Discuss: Wouldn't it be more plausible to rather give up on (2)? (See Hornischer (2020, p. 791f.) for some first ideas.) How could such a semantics look like?
+
+Truthmaker semantics gives up on the first assumption. Discuss: Wouldn't it be more plausible to rather give up on the second assumption? (See Hornischer (2020, p. 791f.) for some first ideas.) How could such a semantics look like?
 
  
 Just to be sure, these suggested topics are meant as first ideas. It is part of the task of writing an essay to turn an interesting aspect of the suggested topic into a precise research question and collect the relevant literature on it. Please take a look at the grading criteria mentioned in the file [`formalities.pdf`](formalities.pdf) to get a clear idea of what a good essay is expected to look like.
