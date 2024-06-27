@@ -72,7 +72,7 @@ Below are some possible essay topics. I'll extend this list as the course progre
    1) Your truth-values can be ordered by closeness to the truth and V(s,"phi and psi") is less or equal to V(s,"phi"), which in turn is less or equal to V(s,"phi or psi").
    2) We have what might be called weak absorpion: V(s,"phi and (phi or psi) = V(s,"phi or (phi and psi)").
 
-Truthmaker semantics gives up on the first assumption. Discuss: Wouldn't it be more plausible to rather give up on the second assumption? (See Hornischer (2020, p. 791f.) for some first ideas.) How could such a semantics look like?
+  Truthmaker semantics gives up on the first assumption. Discuss: Wouldn't it be more plausible to rather give up on the second assumption? (See Hornischer (2020, p. 791f.) for some first ideas.) How could such a semantics look like?
 
  
 Just to be sure, these suggested topics are meant as first ideas. It is part of the task of writing an essay to turn an interesting aspect of the suggested topic into a precise research question and collect the relevant literature on it. Please take a look at the grading criteria mentioned in the file [`formalities.pdf`](formalities.pdf) to get a clear idea of what a good essay is expected to look like.
