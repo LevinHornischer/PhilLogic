@@ -1,4 +1,4 @@
-Welcome to the course _Philosophical Logic_! It is given during the summer semester 2024 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. 
+Welcome to the course _Philosophical Logic_! It is given during the summer semester 2025 at _LMU Munich_ as part of the _Master in Logic and Philosophy of Science_. (Past editions: summer 2023, summer 2024 and previously at the University of Amsterdam.)
 
 
 # Motivation 
@@ -8,15 +8,7 @@ and linguistics). For example, when reasoning with: vague concepts, incomplete o
 
 # General information
 
-We have three sessions per week during the semester:
-
-1. The _lecture_ given by me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html), on Thursdays from 10:15 to 11:45 in room 021 (Ludwigstr. 31).
-Here the main content of the course is introduced. Below you find a schedule of when we cover which topic. (This is `10111 Philosophical Logic` on LSF.)
-
-2. The _exercise class_ given by [Marta Esteves](https://www.mcmp.philosophie.uni-muenchen.de/people/doct_fellows/esteves_marta/index.html), on Mondays from 14:15 to 15:45 in room 028 (Ludwigstr. 31). Here the solutions to the homework exercises are discussed. (This is `10105 Additional Tutorial "Philosophical Logic"` on LSF.)
-  
-3. The _tutorial_ given by me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html), on Thursdays from 9:15 to 10:00 in room 021 (Ludwigstr. 31). Here we cover background material, but we can go into more detail of a particular topic of the lecture (based on your demand). (This is `10132 Exercise course "Philosophical Logic"` on LSF.) 
-
+The instructor of the seminar is me, [Levin Hornischer](https://www.mcmp.philosophie.uni-muenchen.de/people/faculty/hornischer_levin/index.html). During the semester, we meet on Thursdays from 14:00 to 16:00 in room 028 (Ludwigstr. 31). Below you find a schedule of when we cover which topic.
 
 
 # Lecture Notes
@@ -31,26 +23,25 @@ All the organizational details for the course are described in this file: [`form
 
 # Schedule
 
-The schedule below describes in which week we will cover which material in, respectively, the lecture, the tutorial, and the exercise class. The 'Week Date' is the Monday of the week; this is when exercise class takes place, while the lecture and tutorial will take place on the Thursday of that respective week. 
+The schedule below describes in which week we will cover which material. The sections refer to the lecture notes and the exercises are recommended to do before that class.
 
-We had a vote on which topics to cover in the last four weeks, and you opted for an overview of the four last topics in the syllabus below.
 
-Week | Week Date | Chapter | Lecture | Tutorial | Exercise Class
----  | ---                 | ---     | ---     | ---      | --- 
- 1   | 15 Apr    | 1   | until and including sec. 2.2 | _cancelled_ (since before first lecture)  | _cancelled_ (before first lecture) 
- 2   | 22 Apr    | 2   | sec. 2.3 & 2.4 | Intro to partial orders (see appendix) | classical logic recap
- 3   | 29 Apr    | 2   | sec. 2.5 | Recap Boolean algebras and algebraic semantics | Exercises on Boolean algebras (ex. 2.12, 2.13, maybe 2.14) 
- 4   | 6 May     | 2   | _cancelled_ (Ascension Day) | _cancelled_ (Ascension Day) | Exercises from sec. 2.6
- 5   | 13 May    | 3   | sec. 3.1 and most of 3.2 | More on Boolean algebras and Stone duality | Wrap up exercises from sec. 2.6
- 6   | 20 May    | 3   | finished 3.2 until and including 3.3.2 | Exercises from ch. 3 | _cancelled_ (Whit Monday)
- 7   | 27 May    | -   | _cancelled_ (Corpus Christi) | _cancelled_ (Corpus Christi) | _cancelled_ (substituted on June 4)
- 8   | 3 Jun     | 3-4 | Finished 3.3 and covered 4.1 | Exercise 3.7-8 | More exercises from ch. 3
- 9   | 10 Jun    | 4   | Start 4.2 until and including Gödel's theorem | Philosophical background of intuitionistic logic | Exercises on fuzzy logic
-10   | 17 Jun    | 4   | Heyting algebra semantics | Double negation in intuitionistic logic | Exercises on intuitionistic logic
-11   | 24 Jun    | 5   | Hyperintensionality | More on duality between Heyting algebras and Kripke models | Exercises on Heyting algebras (and, optionally, details of proof of Gödel's theorem)
-12   | 1 Jul     | 6   | Counterfactuals | TBA | TBA
-13   | 8 Jul     | 8   | Relevance logic | TBA | TBA
-14   | 15 Jul    | 9   | Paradoxes | TBA | TBA
+Week | Week Date | Chapter | Lecture | Exercises
+---  | ---       | ---     | ---     | ---      
+ 1   | 24 Apr    | 1   | TBA | - 
+ 2   | 1 May     | -   | _cancelled_ (Labor Day) | 
+ 3   | 8 May     | TBA | 
+ 4   | 15 May    | TBA | 
+ 5   | 22 May    | TBA |  
+ 6   | 29 May    | -   | _cancelled_ (Ascension Day)
+ 7   | 5 Jun     | TBA | 
+ 8   | 12 Jun    | TBA | 
+ 9   | 19 Jun    | -   | _cancelled_ (Corpus Christi)
+10   | 26 Jun    | TBA | 
+11   | 3 Jul     | TBA | 
+12   | 10 Jul    | TBA | 
+13   | 17 Jul    | TBA | 
+14   | 24 Jul    | TBA | 
 
 
 # Essay topic
