@@ -23,14 +23,14 @@ All the organizational details for the course are described in this file: [`form
 
 # Schedule
 
-The schedule below describes in which week we will cover which material. The sections refer to the lecture notes and the exercises are recommended to do before that class.
+The schedule below describes in which week we will cover which material. The sections refer to the lecture notes. The exercises are recommended to do for the next session.
 
 
 Week | Week Date | Chapter | Lecture | Exercises
 ---  | ---       | ---     | ---     | ---      
- 1   | 24 Apr    | 1   | TBA | - 
+ 1   | 24 Apr    | 1-2   | until and including sec. 2.2 | Recap sec. 2.2 and do exercises therein
  2   | 1 May     | -   | _cancelled_ (Labor Day) | 
- 3   | 8 May     | TBA | 
+ 3   | 8 May     | 2   | |  
  4   | 15 May    | TBA | 
  5   | 22 May    | TBA |  
  6   | 29 May    | -   | _cancelled_ (Ascension Day)
