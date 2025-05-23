@@ -28,13 +28,13 @@ The schedule below describes in which week we will cover which material. The sec
 
 Week | Week Date | Chapter | Lecture | Exercises
 ---  | ---       | ---     | ---     | ---      
- 1   | 24 Apr    | 1-2   | until and including sec. 2.2 | Recap sec. 2.2 and do exercises therein
+ 1   | 24 Apr    | 1-2 | until and including sec. 2.2 | Recap sec. 2.2 and do exercises therein
  2   | 1 May     | -   | _cancelled_ (Labor Day) | 
- 3   | 8 May     | 2   | |  
- 4   | 15 May    | TBA | 
- 5   | 22 May    | TBA |  
+ 3   | 8 May     | 2   | until first parts of sec. 2.3.2 | in-text exercises  
+ 4   | 15 May    | 2   | finishing sec. 2.3.2 (Boolean algebras) | in-text exercises
+ 5   | 22 May    | 2   | sec. 2.4 and 2.5 | exercises 2.a-d (as many as you want) 
  6   | 29 May    | -   | _cancelled_ (Ascension Day)
- 7   | 5 Jun     | TBA | 
+ 7   | 5 Jun     | 3   |  
  8   | 12 Jun    | TBA | 
  9   | 19 Jun    | -   | _cancelled_ (Corpus Christi)
 10   | 26 Jun    | TBA | 
