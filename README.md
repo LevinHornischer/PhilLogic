@@ -32,7 +32,7 @@ Week | Week Date | Chapter | Lecture | Exercises
  2   | 1 May     | -   | _cancelled_ (Labor Day) | 
  3   | 8 May     | 2   | until first parts of sec. 2.3.2 | in-text exercises  
  4   | 15 May    | 2   | finishing sec. 2.3.2 (Boolean algebras) | in-text exercises
- 5   | 22 May    | 2   | sec. 2.4 and 2.5 | exercises 2.a-d (as many as you want) 
+ 5   | 22 May    | 2   | sec. 2.4 (includes sec 2.5 in the older version of the notes) | exercises 2.a-e (as many as you want) 
  6   | 29 May    | -   | _cancelled_ (Ascension Day)
  7   | 5 Jun     | 3   |  
  8   | 12 Jun    | TBA | 
