@@ -35,7 +35,7 @@ Week | Week Date | Chapter | Lecture | Exercises
  5   | 22 May    | 2   | sec. 2.4 (includes sec 2.5 in the older version of the notes) | exercises 2.a-e (as many as you want) 
  6   | 29 May    | -   | _cancelled_ (Ascension Day)
  7   | 5 Jun     | 3   | until an including sec. 3.2.1 | the in-text exercises and 3.b.  
- 8   | 12 Jun    | 3   | Finishing ch. 3 
+ 8   | 12 Jun    | 3   | Finishing ch. 3 | exercises 3.c, d, f.
  9   | 19 Jun    | -   | _cancelled_ (Corpus Christi)
 10   | 26 Jun    | TBA | 
 11   | 3 Jul     | TBA | 
