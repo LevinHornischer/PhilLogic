@@ -37,14 +37,14 @@ Week | Week Date | Chapter | Lecture | Exercises
  7   | 5 Jun     | 3   | until an including sec. 3.2.1 | the in-text exercises and 3.b.  
  8   | 12 Jun    | 3   | Finishing ch. 3 | exercises 3.c, d, f.
  9   | 19 Jun    | -   | _cancelled_ (Corpus Christi)
-10   | 26 Jun    | TBA | 
+10   | 26 Jun    | 4   | Starting sec. 4.2 | 
 11   | 3 Jul     | TBA | 
 12   | 10 Jul    | TBA | 
 13   | 17 Jul    | TBA | 
 14   | 24 Jul    | TBA | 
 
 
-# Essay topic
+# Essay topics
 
 
 Below are some possible essay topics. I'll extend this list as the course progresses.
