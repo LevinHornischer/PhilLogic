@@ -37,12 +37,13 @@ Week | Week Date | Chapter | Lecture | Exercises
  7   | 5 Jun     | 3   | until an including sec. 3.2.1 | the in-text exercises and 3.b.  
  8   | 12 Jun    | 3   | Finishing ch. 3 | exercises 3.c, d, f.
  9   | 19 Jun    | -   | _cancelled_ (Corpus Christi)
-10   | 26 Jun    | 4   | Starting sec. 4.2 | 
-11   | 3 Jul     | TBA | 
-12   | 10 Jul    | TBA | 
-13   | 17 Jul    | TBA | 
-14   | 24 Jul    | TBA | 
+10   | 26 Jun    | 4   | Sec. 4.2 until thm. 4.11 |  exercise 4.c
+11   | 3 Jul     | 4   | Rest of sec. 4 | 
+12   | 10 Jul    | 5   | Hyperintensionality |
+13   | 17 Jul    | 6   | Counterfactuals |
+14   | 24 Jul    | -   | Essay preperation session
 
+(We had a vote on which later chapters of the lecture notes to cover: the schedule shows your choice.)
 
 # Essay topics
 
