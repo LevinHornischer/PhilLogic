@@ -28,7 +28,7 @@ The schedule below describes in which week we will cover which material. The sec
 Week | Week Date | Chapter | Lecture | Exercises
 ---  | ---       | ---     | ---     | ---      
  1   | 16 Apr    | 1-2 | until and including sec. 2.2 | Recap sec. 2.2 and do exercises therein
- 2   | 23 Apr    | TBA | 
+ 2   | 23 Apr    | 2   | until beginning of 2.4 ('Boolean algebras formally' only briefly, TBC) | Ex. 2.20, 2.21, and 2.22.
  3   | 30 Apr    | TBA | 
  4   | 7 May     | TBA | 
  5   | 21 May    | TBA | 
