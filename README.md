@@ -29,8 +29,8 @@ Week | Week Date | Chapter | Lecture | Exercises
 ---  | ---       | ---     | ---     | ---      
  1   | 16 Apr    | 1-2 | until and including sec. 2.2 | Recap sec. 2.2 and do exercises therein
  2   | 23 Apr    | 2   | until beginning of 2.4 ('Boolean algebras formally' only briefly, TBC) | Ex. 2.20, 2.21, and 2.22.
- 3   | 30 Apr    | TBA | 
- 4   | 7 May     | TBA | 
+ 3   | 30 Apr    | 2   | finishing ch. 2 | ex 2.12, ex 2.13, 2.14 (optional and challenging: ex 2a-f)
+ 4   | 7 May     | 3   | 
  5   | 21 May    | TBA | 
  6   | 28 May    | TBA | 
  7   | 11 Jun    | TBA | 
